@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "frontend": "^2.0.0-alpha.4"
+  }
+}
